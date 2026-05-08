@@ -7,19 +7,19 @@ An autonomous multi-agent AI system that ingests a lead database, scores each le
 ## Screenshots
 
 ### Campaign Setup
-![Campaign Form](screenshots/01_light_campaign.png)
+![Campaign Form](screenshots/light_campaign.png)
 
 ### Pipeline Running
-![Pipeline Running](screenshots/03_pipeline_running.png)
+![Pipeline Running](screenshots/pipeline_running.png)
 
 ### Results Dashboard
-![Results](screenshots/04_results_dashboard.png)
+![Results](screenshots/results_dashboard.png)
 
 ### Email Preview
-![Email Preview](screenshots/05_email_preview.png)
+![Email Preview](screenshots/email_preview.png)
 
 ### Skip Reasons
-![Skip Reasons](screenshots/06_skip_reasons.png)
+![Skip Reasons](screenshots/skip_reasons.png)
 
 ---
 
@@ -197,6 +197,3 @@ neuralsdr/
 
 ---
 
-## Author
-
-Built by a 3rd year BTech student at SRM IST as a placement project demonstrating real-world agentic AI system design.
