@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+data/temp_upload.csv
+*.zip
+.venv/
+venv/

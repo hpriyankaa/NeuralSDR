@@ -1,0 +1,11 @@
+openai-agents>=0.0.12
+openai
+python-dotenv
+pandas
+fastapi
+uvicorn
+sendgrid
+pydantic
+eval_type_backport
+python-multipart
+pdfplumber
